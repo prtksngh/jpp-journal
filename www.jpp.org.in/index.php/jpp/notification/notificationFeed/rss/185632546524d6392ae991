@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+
+	<channel rdf:about="http://www.jpp.org.in">
+		<title>Journal of Proteins & Proteomics Notifications</title>
+		<link>http://www.jpp.org.in/index.php/jpp/notification/notificationFeed/rss/185632546524d6392ae991</link>
+		<language>en-US</language>
+		<items>
+					</items>
+	</channel>
+
+	
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sun, 11 Nov 2018 05:02:31 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2018-11-11</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 25 Oct 2018 05:39:30 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/13
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2018-10-25</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Wed, 25 Jul 2018 02:00:40 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2018-07-25</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 05 Apr 2018 00:24:53 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2018-04-05</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sun, 11 Feb 2018 20:24:33 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2018-02-11</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Mon, 05 Feb 2018 22:10:05 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2018-02-05</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 07 Nov 2017 14:57:46 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-07</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 07 Nov 2017 14:55:45 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-07</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 07 Nov 2017 14:51:49 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-07</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 07 Nov 2017 14:49:45 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-07</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 07 Nov 2017 14:46:47 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-07</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 07 Nov 2017 14:41:38 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-07</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 07 Nov 2017 14:39:57 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-07</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Mon, 06 Nov 2017 11:02:15 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-06</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sun, 05 Nov 2017 12:34:27 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/11
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-05</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sun, 05 Nov 2017 12:33:16 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/12
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-05</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 02 Nov 2017 20:36:24 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-11-02</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 28 Sep 2017 08:29:55 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-09-28</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 26 Sep 2017 00:08:44 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/11
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-09-26</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 07 Jul 2017 03:20:15 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-07-07</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Mon, 03 Jul 2017 10:55:14 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/10
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-07-03</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 20 Apr 2017 06:52:29 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-04-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 14 Mar 2017 08:53:57 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/8
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-03-14</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 14 Mar 2017 08:50:46 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/9
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-03-14</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 14 Mar 2017 08:50:40 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/9
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-03-14</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 14 Mar 2017 08:48:55 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/8
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-03-14</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 10 Jan 2017 12:00:49 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/8
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-01-10</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 10 Jan 2017 12:00:07 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/8
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2017-01-10</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 13 Dec 2016 14:37:21 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/9
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2016-12-13</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 13 Dec 2016 14:20:41 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2016-12-13</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 13 Dec 2016 05:26:55 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/8
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2016-12-13</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 13 Dec 2016 05:25:23 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/8
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2016-12-13</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sun, 09 Oct 2016 04:09:16 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2016-10-09</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Wed, 06 Jul 2016 23:43:34 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2016-07-06</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 17 Mar 2016 09:13:33 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2016-03-17</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 10 Dec 2015 03:35:37 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-12-10</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sat, 05 Dec 2015 22:18:59 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/7
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-12-05</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sat, 05 Dec 2015 22:18:09 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/7
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-12-05</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Wed, 28 Oct 2015 13:27:59 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/7
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-10-28</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Wed, 28 Oct 2015 13:21:12 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/7
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-10-28</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Wed, 28 Oct 2015 13:12:33 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-10-28</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 30 Jun 2015 08:17:58 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-06-30</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sat, 21 Feb 2015 05:49:40 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-02-21</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 20 Feb 2015 21:25:32 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2015-02-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 30 Dec 2014 21:47:20 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/6
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-12-30</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 30 Dec 2014 21:46:17 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/6
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-12-30</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Sat, 27 Dec 2014 12:36:45 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-12-27</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 14 Oct 2014 08:59:58 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/6
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-10-14</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 14 Oct 2014 05:50:39 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/6
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-10-14</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 14 Oct 2014 05:48:49 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/6
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-10-14</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 14 Oct 2014 04:51:43 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/6
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-10-14</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 23 Sep 2014 20:12:34 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-09-23</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 13 Jun 2014 11:24:56 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-06-13</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Wed, 12 Mar 2014 20:33:26 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/5
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-03-12</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Wed, 12 Mar 2014 20:29:08 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/5
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-03-12</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 11 Feb 2014 15:10:27 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/3
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-02-11</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 11 Feb 2014 15:10:25 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/3
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-02-11</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 28 Jan 2014 17:55:29 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2014-01-28</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Tue, 24 Dec 2013 03:31:31 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-24</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 20 Dec 2013 03:13:08 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/3
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 20 Dec 2013 03:12:43 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/4
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 20 Dec 2013 03:11:28 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/3
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 20 Dec 2013 03:04:33 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/4
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 20 Dec 2013 03:01:05 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/2
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 20 Dec 2013 02:54:40 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/3
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 20 Dec 2013 02:50:32 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/2
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-20</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 19 Dec 2013 12:27:19 -0500</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/1
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-12-19</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 17 Oct 2013 03:24:10 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/1
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-17</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 17 Oct 2013 03:20:52 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/1
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-17</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 10 Oct 2013 02:23:02 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/1
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-10</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:57:31 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:52:54 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:52:36 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:49:37 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:47:36 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:47:06 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:46:53 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:45:57 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Fri, 04 Oct 2013 02:43:06 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/issue/current
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-04</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 03 Oct 2013 04:42:23 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/1
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-03</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 03 Oct 2013 04:36:45 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/1
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-03</dc:date>
+</item>
+<item rdf:about="http://www.jpp.org.in/index.php/jpp/notification">
+	<title>Notification : Thu, 03 Oct 2013 04:32:34 -0400</title>
+	<link>
+					http://www.jpp.org.in/index.php/jpp/announcement/view/1
+			</link>
+	<description>
+		
+	</description>
+	<dc:creator>Journal of Proteins &amp; Proteomics</dc:creator>
+	<dc:date>2013-10-03</dc:date>
+</item>
+</rdf:RDF>

@@ -1,0 +1,257 @@
+/**
+ * plugins/themes/classicBlue/classicBlue.css
+ *
+ * Copyright (c) 2013 Simon Fraser University Library
+ * Copyright (c) 2003-2013 John Willinsky
+ * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ *
+ * Classic blue theme stylesheet.
+ *
+ */
+@import url('http://fonts.googleapis.com/css?family=Kite+One');
+
+body {
+	background-color: #fff;
+	background-image:url(background.jpg);
+	font-family: "Times New Roman", Times, Georgia, serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: #069;
+}
+
+a:active {
+	color: #39c;
+}
+
+a:visited {
+	color: #069;
+}
+
+a:hover {
+	color: #EEEEFF;
+	background: #069;
+}
+
+label.error {
+	color: #f60;
+}
+
+input.defaultButton {
+	color: #EEEEFF;
+	background: #069;
+}
+
+#container {
+	background-color: #fff;
+	font-size: 1em;
+}
+
+#header {
+	min-height: 100px;
+	background-color: #fff;
+}
+
+#headerTitle {
+	text-align: center;
+}
+
+#header h1 {
+	/* line-height: 2.5; */
+	font-family: "Times New Roman", Times, Georgia, serif;
+	/* text-transform: uppercase; */
+	letter-spacing: 3px;
+	font-size: 2em;
+	/* background-color: #069; */
+	background-color: #15515F;
+	color:  #fff;
+}
+
+#footer {
+	background-color: #069;
+	color:  #fff;
+}
+
+#footerContent {
+	color:  #fff;
+}
+
+#main {
+	background-color: #fff;
+	border-top: 1px solid yellow;
+	border-bottom: 1px dotted #069;
+	margin-top: 15px;
+}
+
+#main h2 {
+	/*font-family: "Times New Roman", Times, Georgia, serif;*/
+	font-family:'Kite One', sans-serif;
+	/*text-transform: uppercase;*/
+	padding:20px;
+}
+
+#main h3 {
+	/*font-family: "Times New Roman", Times, Georgia, serif;*/
+	font-family:'Kite One', sans-serif;
+	/*text-transform: uppercase;*/
+}
+
+#navbar {
+	border-bottom: 1px dotted #069;
+	text-align: center;
+	font-family:'Kite One', sans-serif;
+}
+
+#breadcrumb {
+	height: 18px;
+	line-height: 1.5em;
+	text-align: center;
+	border-bottom: 1px dotted #069;
+	padding: 0;
+	font-style: italic;
+}
+
+#content {
+	/* border-top: 1px dotted #069; */
+}
+
+#content h3 {
+	/*font-family:  "Times New Roman", Times, Georgia, serif;
+	text-transform: uppercase;*/
+}
+
+#content h4 {
+	font-family:  "Times New Roman", Times, Georgia, serif;
+	/* text-transform: uppercase; */
+	font-weight: bold;
+}
+
+#content h5 {
+	text-transform: uppercase;
+}
+
+span.highlight {
+	border-bottom: 1px dotted #069;
+}
+
+table.listing tr.highlight {
+	background: #fcff64;
+}
+
+table.listing tr.fastTracked {
+	background-color: #EEEEFF;
+}
+
+table.listing td.headseparator {
+	border-top: 1px dotted #069;
+}
+
+table.listing td.endseparator {
+	border-top: 1px dotted #069;
+}
+
+span.formError {
+	color: #f60;
+}
+
+ul.formErrorList {
+	color: #f60;
+}
+
+div.separator {
+	border-bottom: 1px dotted #069;
+}
+
+#rightSidebar ul, #leftSidebar ul {
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+#rightSidebar li, #leftSidebar li {
+	list-style-type: none;
+}
+
+#rightSidebar, #leftSidebar {
+	margin-top: 15px;
+	border-bottom: 1px dotted #069;
+	background-color:hsla(0, 0%, 89%, 0.51);
+	padding-left:10px;
+}
+
+/* for website header- added by hemu */
+
+.wheading {
+	width:55%; 
+	text-align:center;
+	font-weight:bold;
+	float:left;
+}
+
+.heading-p1 {
+	font-family:'Kite One', sans-serif;
+	font-size:0.5em
+}
+
+.heading-p2 {
+	font-size:0.9em;
+}
+
+.heading-p2-2 {
+	font-family:'Kite One', sans-serif;
+	font-size:0.4em
+}
+
+.impact-h {
+	/*width:33%;*/ 
+	text-align:center;
+	font-size:0.5em;
+	float:left;
+	letter-spacing:2px;
+}
+.im-num {
+	font-size:1.2em;
+	font-weight:bold;
+}
+.naas {
+	background-image: url(naas.png);
+	width: 90px;
+	height: 70px;
+	float:left;
+}
+.imp-factor {
+	background-image: url(impact-factor.png);
+	width: 120px;
+	height: 70px;
+	float:left;
+}
+.lpsi {
+	background-image: url(logo-psi.jpg);
+	width: 78px;
+	height: 70px;
+	float:left;
+}
+.rate {
+	background-image: url(rate.png);
+	width: 93px;
+	height: 70px;
+	float:left;
+}
+/*.rate {
+	background-image: url(rate.png);
+	width: 220px;
+	height: 70px;
+	float:left;
+}
+*/
+
+
+div.pis:before {
+       content: "A Journal of the Proteomics Society, India (PSI)";
+       font-family:'Kite One', sans-serif;
+       font-size:0.4em;
+       text-align:center !important;
+}

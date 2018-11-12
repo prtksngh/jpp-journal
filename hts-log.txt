@@ -1,0 +1,199 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Nov 2018 09:07:55 at http://www.jpp.org.in +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p7DaK0c8R2H0%kf2A25000000000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.jpp.org.in -O1 "C:\My Web Sites\JPP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:07:55	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+09:07:55	Warning: 	Note: due to www.jpp.org.in remote robots.txt rules, links beginning with these path will be forbidden: cache/ (see in the options to disable this)
+09:07:55	Warning: 	Found for www.jpp.org.in/
+09:07:55	Warning: 	File has moved from www.jpp.org.in/ to http://www.jpp.org.in/index.php/jpp
+09:07:57	Warning: 	Found for www.jpp.org.in/index.php/jpp/issue/current
+09:07:57	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/issue/current to http://www.jpp.org.in/index.php/jpp/issue/view/32
+09:07:57	Warning: 	Found for www.jpp.org.in/index.php/jpp/notification/getNotificationFeedUrl/rss
+09:07:57	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/notification/getNotificationFeedUrl/rss to http://www.jpp.org.in/index.php/jpp/notification/notificationFeed/rss/185632546524d6392ae991
+09:07:57	Warning: 	Found for www.jpp.org.in/index.php/jpp/notification/getNotificationFeedUrl/atom
+09:07:57	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/notification/getNotificationFeedUrl/atom to http://www.jpp.org.in/index.php/jpp/notification/notificationFeed/atom/185632546524d6392ae991
+09:07:57	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/12
+09:07:57	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/12 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:07:57	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/11
+09:07:57	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/11 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:07:57	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/10
+09:07:57	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/10 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:07:57	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/8
+09:07:57	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/8 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:07:57	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/9
+09:07:57	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/9 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:08:04	Error: 	"Not Found" (404) at link www.jpp.org.in/index.php/jpp/announcement/announcement (from www.jpp.org.in/index.php/jpp/announcement/view/12)
+09:08:04	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/6
+09:08:04	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/6 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:08:04	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/5
+09:08:04	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/5 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:08:04	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/3
+09:08:04	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/3 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:08:04	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/4
+09:08:04	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/4 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:08:04	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/2
+09:08:04	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/2 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:08:04	Warning: 	Found for www.jpp.org.in/index.php/jpp/announcement/view/1
+09:08:04	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/announcement/view/1 to http://www.jpp.org.in/index.php/jpp/announcement/announcement
+09:17:22	Warning: 	Found for www.jpp.org.in/index.php/index/index
+09:17:22	Warning: 	File has moved from www.jpp.org.in/index.php/index/index to http://www.jpp.org.in/index.php/jpp
+09:17:22	Error: 	Unable to save file C:/My Web Sites/JPP/www.jpp.org.in/index.php/index/index: Permission denied
+09:21:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/290/191
+09:21:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/26/25
+09:21:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/43/42
+09:21:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/23/22
+09:21:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/206/144
+09:21:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/274/183
+09:21:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/210/148
+09:21:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/44/43
+09:21:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/24/23
+09:21:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/15/15
+09:22:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/20/19
+09:22:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/16/16
+09:22:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/207/145
+09:22:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/192/132
+09:22:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/219/156
+09:23:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/195/135
+09:23:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/203/141
+09:23:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/175/125
+09:23:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/193/133
+09:23:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/228/165
+09:23:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/161/121
+09:23:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/301/198
+09:23:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/121/102
+09:23:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/227/164
+09:24:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/22/21
+09:24:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/191/131
+09:24:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/225/162
+09:24:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/172/124
+09:24:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/202/140
+09:24:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/33/32
+09:25:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/299/196
+09:25:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/302/199
+09:25:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/259/179
+09:26:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/221/158
+09:27:05	Warning: 	Found for www.jpp.org.in/index.php/jpp/issue/current
+09:27:05	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/issue/current to http://www.jpp.org.in/index.php/jpp/issue/view/32
+09:27:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/162/122
+09:27:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/304/201
+09:27:58	Warning: 	Found for www.jpp.org.in/index.php/jpp/notification/getNotificationFeedUrl/atom
+09:27:58	Warning: 	File has moved from www.jpp.org.in/index.php/jpp/notification/getNotificationFeedUrl/atom to http://www.jpp.org.in/index.php/jpp/notification/notificationFeed/atom/185632546524d6392ae991
+09:27:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/122/103
+09:28:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/27/26
+09:28:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/306/203
+09:29:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/257/177
+09:29:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/31/30
+09:29:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/25/24
+09:29:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/222/159
+09:30:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/256/176
+09:30:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/47/46
+09:30:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/276/185
+09:30:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/download/281/188
+09:30:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/291/39
+09:30:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/208/22
+09:30:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/208/23
+09:30:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/208/24
+09:30:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/208/25
+09:30:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/212/28
+09:30:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/200/18
+09:30:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/278/36
+09:30:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/206/19
+09:30:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/274/35
+09:31:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/210/26
+09:31:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/210/27
+09:31:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/207/20
+09:31:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/207/21
+09:31:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/192/16
+09:31:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/192/17
+09:31:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/228/30
+09:31:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/228/31
+09:31:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/161/14
+09:31:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/191/15
+09:31:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/172/12
+09:31:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.jpp.org.in/index.php/jpp/article/downloadSuppFile/172/13
+09:31:55	Error: 	"Not Found" (404) at link www.jpp.org.in/index.php/jpp/announcement/announcement (from www.jpp.org.in/index.php/jpp/announcement/view/12)
+09:32:04	Warning: 	HTML file (5231 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/26/0
+09:32:05	Warning: 	HTML file (5853 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/290/0
+09:32:06	Warning: 	HTML file (5403 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/43/0
+09:32:08	Warning: 	HTML file (5943 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/206/0
+09:32:09	Warning: 	HTML file (5143 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/23/0
+09:32:11	Warning: 	HTML file (6608 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/274/0
+09:32:12	Warning: 	HTML file (5463 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/210/0
+09:32:13	Warning: 	HTML file (5377 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/44/0
+09:32:15	Warning: 	HTML file (5382 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/24/0
+09:32:16	Warning: 	HTML file (4275 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/15/0
+09:32:17	Warning: 	HTML file (5414 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/20/0
+09:32:18	Warning: 	HTML file (5710 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/16/0
+09:32:19	Warning: 	HTML file (5913 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/207/0
+09:32:21	Warning: 	HTML file (5634 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/192/0
+09:32:22	Warning: 	HTML file (5876 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/219/0
+09:32:23	Warning: 	HTML file (6476 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/195/0
+09:32:24	Warning: 	HTML file (4245 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/203/0
+09:32:25	Warning: 	HTML file (4195 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/175/0
+09:32:27	Warning: 	HTML file (4195 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/193/0
+09:32:28	Warning: 	HTML file (5544 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/228/0
+09:32:29	Warning: 	HTML file (5396 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/161/0
+09:32:30	Warning: 	HTML file (6239 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/301/0
+09:32:32	Warning: 	HTML file (5171 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/121/0
+09:32:33	Warning: 	HTML file (5860 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/227/0
+09:32:34	Warning: 	HTML file (5484 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/22/0
+09:32:36	Warning: 	HTML file (5528 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/191/0
+09:32:37	Warning: 	HTML file (5292 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/225/0
+09:32:38	Warning: 	HTML file (6520 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/172/0
+09:32:40	Warning: 	HTML file (6049 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/202/0
+09:32:41	Warning: 	HTML file (6051 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/33/0
+09:32:42	Warning: 	HTML file (7702 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/299/0
+09:32:43	Warning: 	HTML file (6487 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/302/0
+09:32:45	Warning: 	HTML file (5656 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/259/0
+09:32:46	Warning: 	HTML file (4171 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/221/0
+09:32:47	Warning: 	HTML file (6013 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/162/0
+09:32:48	Warning: 	HTML file (4148 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/304/0
+09:32:50	Warning: 	HTML file (5600 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/122/0
+09:32:51	Warning: 	HTML file (5989 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/27/0
+09:32:52	Warning: 	HTML file (4150 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/306/0
+09:32:54	Warning: 	HTML file (5576 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/257/0
+09:32:56	Warning: 	HTML file (5194 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/31/0
+09:32:57	Warning: 	HTML file (5642 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/25/0
+09:32:58	Warning: 	HTML file (4163 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/222/0
+09:32:59	Warning: 	HTML file (5575 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/256/0
+09:33:01	Warning: 	HTML file (5420 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/47/0
+09:33:02	Warning: 	HTML file (5809 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/276/0
+09:33:03	Warning: 	HTML file (5391 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/printerFriendly/281/0
+09:33:05	Warning: 	HTML file (7755 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/index/help
+09:33:06	Warning: 	HTML file (7203 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/291/0/39
+09:33:07	Warning: 	HTML file (7159 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/208/0/22
+09:33:08	Warning: 	HTML file (7159 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/208/0/23
+09:33:09	Warning: 	HTML file (7157 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/208/0/24
+09:33:10	Warning: 	HTML file (7156 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/208/0/25
+09:33:11	Warning: 	HTML file (7162 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/212/0/28
+09:33:13	Warning: 	HTML file (7301 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/200/0/18
+09:33:14	Warning: 	HTML file (7229 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/278/0/36
+09:33:15	Warning: 	HTML file (7347 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/206/0/19
+09:33:16	Warning: 	HTML file (7238 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/274/0/35
+09:33:17	Warning: 	HTML file (7103 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/210/0/26
+09:33:19	Warning: 	HTML file (7104 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/210/0/27
+09:33:20	Warning: 	HTML file (7206 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/207/0/20
+09:33:21	Warning: 	HTML file (7216 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/207/0/21
+09:33:22	Warning: 	HTML file (7267 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/192/0/16
+09:33:23	Warning: 	HTML file (7188 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/192/0/17
+09:33:24	Warning: 	HTML file (7231 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/228/0/30
+09:33:25	Warning: 	HTML file (7140 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/228/0/31
+09:33:27	Warning: 	HTML file (7181 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/161/0/14
+09:33:28	Warning: 	HTML file (7564 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/191/0/15
+09:33:29	Warning: 	HTML file (7085 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/172/0/12
+09:33:31	Warning: 	HTML file (7084 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/jpp/rt/suppFileMetadata/172/0/13
+09:33:32	Warning: 	HTML file (12002 bytes) retransferred due to lack of cache: www.jpp.org.in/index.php/index/help/view/intro/topic/000000
+09:33:40	Error: 	"Not Found" (404) at link www.jpp.org.in/lib/pkp/templates/images/icons/alert.gif (from www.jpp.org.in/styles/compiled.css)
+09:33:40	Error: 	"Not Found" (404) at link www.jpp.org.in/lib/pkp/styles/splitter/ui-bg_pane.gif (from www.jpp.org.in/styles/compiled.css)
+09:33:40	Error: 	"Not Found" (404) at link www.jpp.org.in/templates/images/button_bg_slice.png (from www.jpp.org.in/styles/compiled.css)
+09:33:40	Error: 	"Not Found" (404) at link www.jpp.org.in/styles/styles/structure/index.less (from www.jpp.org.in/styles/compiled.css)
+09:33:40	Error: 	"Not Found" (404) at link www.jpp.org.in/styles/styles/linkActions.less (from www.jpp.org.in/styles/compiled.css)
+09:33:40	Error: 	"Not Found" (404) at link www.jpp.org.in/lib/pkp/styles/images/ui-icons_222222_256x240.png (from www.jpp.org.in/styles/compiled.css)
+09:33:41	Error: 	"Not Found" (404) at link www.jpp.org.in/index.php/jpp/user/GET (from www.jpp.org.in/lib/pkp/lib/tinymce/jscripts/tiny_mce/tiny_mce_gzip.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 minutes 47 seconds : 2475 links scanned, 2935 files written (1209387396 bytes overall), 646 files updated [338346160 bytes received at 218711 bytes/sec], 3.9 requests per connection
+(10 errors, 178 warnings, 0 messages)
